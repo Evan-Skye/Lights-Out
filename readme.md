@@ -1,5 +1,6 @@
 # Lights-Out
 An arcade-style desktop game made in Monogame (a framework within C#).
+
 © Evan S., 2020
 
 A video demo and explanation can be found [here](https://youtu.be/_Fl5-7NVM5Q).
